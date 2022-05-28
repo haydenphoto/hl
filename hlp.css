@@ -1,0 +1,28 @@
+img{
+    border-radius:30px ;
+}
+
+.h1{
+    color:#15a5d1;
+    font-size:70px;
+}
+
+.btn{
+    border:none;
+    border-radius:12px;
+    background-color:#0553a1;
+    font-size:72px;
+}
+
+.h2{
+    color:#085f85;
+    font-size:65px;
+}
+
+.knoppie{
+    border:none;
+    border-radius:12px;
+    color:#1a02f7;
+    background-color:#078ef5;
+    font-size:82px;
+}
